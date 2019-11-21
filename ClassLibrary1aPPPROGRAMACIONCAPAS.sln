@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1aPPPROGRAMACIO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppIUwin", "AppIUwin\AppIUwin.csproj", "{722DD2DF-31C6-44C0-8E3A-F14B20BBFC4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPruebaFactorial", "AppPruebaFactorial\AppPruebaFactorial.csproj", "{125B182D-D5BC-4F00-A55D-486A8FC266F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{722DD2DF-31C6-44C0-8E3A-F14B20BBFC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{722DD2DF-31C6-44C0-8E3A-F14B20BBFC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{722DD2DF-31C6-44C0-8E3A-F14B20BBFC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125B182D-D5BC-4F00-A55D-486A8FC266F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125B182D-D5BC-4F00-A55D-486A8FC266F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125B182D-D5BC-4F00-A55D-486A8FC266F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125B182D-D5BC-4F00-A55D-486A8FC266F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
